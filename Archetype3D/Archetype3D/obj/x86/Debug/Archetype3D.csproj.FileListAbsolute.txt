@@ -1,0 +1,15 @@
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Archetype3D.exe
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Archetype3D.pdb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\obj\x86\Debug\Archetype3D.exe
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\obj\x86\Debug\Archetype3D.pdb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\druid.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\empty.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\empty_normal.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_albedo.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_height.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_normal.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\sf.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\normalmap.xnb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\Paddle.xnb

@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Courier.spritefont</Source>
+      <Name>Courier</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\Courier.xnb</Output>
+      <Time>2011-06-01T20:11:03.890625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GrassTile.bmp</Source>
+      <Name>GrassTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\GrassTile.xnb</Output>
+      <Time>2011-06-03T19:43:26.71875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2011-06-03T20:10:53.546875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2011-06-04T14:39:37.6875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2011-06-07T19:46:05.40625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>projectile.bmp</Source>
+      <Name>projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\projectile.xnb</Output>
+      <Time>2011-06-08T11:20:48.640625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_background_arctic.png</Source>
+      <Name>CF\cannonfodder1_background_arctic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_background_arctic.xnb</Output>
+      <Time>2011-06-14T15:19:13.5625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_background_desert.png</Source>
+      <Name>CF\cannonfodder1_background_desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_background_desert.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_background_grass.png</Source>
+      <Name>CF\cannonfodder1_background_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_background_grass.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_background_jungle.png</Source>
+      <Name>CF\cannonfodder1_background_jungle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_background_jungle.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_background_underground.png</Source>
+      <Name>CF\cannonfodder1_background_underground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_background_underground.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_menu1.png</Source>
+      <Name>CF\cannonfodder1_menu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_menu1.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_menu2.png</Source>
+      <Name>CF\cannonfodder1_menu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_menu2.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_menu4.png</Source>
+      <Name>CF\cannonfodder1_menu4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_menu4.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_arctic1.png</Source>
+      <Name>CF\cannonfodder1_sprites_arctic1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_arctic1.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_arctic2.png</Source>
+      <Name>CF\cannonfodder1_sprites_arctic2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_arctic2.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_desert1.png</Source>
+      <Name>CF\cannonfodder1_sprites_desert1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_desert1.xnb</Output>
+      <Time>2011-06-14T15:19:13.46875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_desert2.png</Source>
+      <Name>CF\cannonfodder1_sprites_desert2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_desert2.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_grass1.png</Source>
+      <Name>CF\cannonfodder1_sprites_grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_grass1.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_grass2.png</Source>
+      <Name>CF\cannonfodder1_sprites_grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_grass2.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_jungle1.png</Source>
+      <Name>CF\cannonfodder1_sprites_jungle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_jungle1.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_jungle2.png</Source>
+      <Name>CF\cannonfodder1_sprites_jungle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_jungle2.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_underground1.png</Source>
+      <Name>CF\cannonfodder1_sprites_underground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_underground1.xnb</Output>
+      <Time>2011-06-14T15:19:13.484375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_underground2.png</Source>
+      <Name>CF\cannonfodder1_sprites_underground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_underground2.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_xmas1.png</Source>
+      <Name>CF\cannonfodder1_sprites_xmas1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_xmas1.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_sprites_xmas2.png</Source>
+      <Name>CF\cannonfodder1_sprites_xmas2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_sprites_xmas2.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_arctic.png</Source>
+      <Name>CF\cannonfodder1_tiles_arctic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_arctic.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_desert.png</Source>
+      <Name>CF\cannonfodder1_tiles_desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_desert.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_grass.png</Source>
+      <Name>CF\cannonfodder1_tiles_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_grass.xnb</Output>
+      <Time>2011-06-14T15:19:13.515625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_jungle.png</Source>
+      <Name>CF\cannonfodder1_tiles_jungle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_jungle.xnb</Output>
+      <Time>2011-06-14T15:19:13.53125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_underground.png</Source>
+      <Name>CF\cannonfodder1_tiles_underground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_underground.xnb</Output>
+      <Time>2011-06-14T15:19:13.546875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CF\cannonfodder1_tiles_xmas.png</Source>
+      <Name>CF\cannonfodder1_tiles_xmas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\CF\cannonfodder1_tiles_xmas.xnb</Output>
+      <Time>2011-06-14T15:19:13.546875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSprites.xml</Source>
+      <Name>PlayerSprites</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>SpriteSheetProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\PlayerSprites.xnb</Output>
+      <Time>2011-06-03T17:51:34.328125+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sprites_0.xml</Key>
+        <Value>2012-02-17T21:33:46.8125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>SceneMotionBlur.fx</Source>
+      <Name>SceneMotionBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\SceneMotionBlur.xnb</Output>
+      <Time>2011-06-20T21:20:07.796875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Debug\sprites_0.xml</Output>
+      <Time>2011-06-03T12:59:46.578125+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\ArchetypeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\ArchetypeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype\Archetype\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\SpriteSheet\SpriteSheetPipeline\bin\x86\Debug\SpriteSheetPipeline.dll</Key>
+        <Value>2012-02-17T21:33:42.46875+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-30T12:47:03.234375+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

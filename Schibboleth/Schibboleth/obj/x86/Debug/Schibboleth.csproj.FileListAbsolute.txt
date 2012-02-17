@@ -1,0 +1,6 @@
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\bin\x86\Debug\Schibboleth.exe
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\bin\x86\Debug\Schibboleth.pdb
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\obj\x86\Debug\Schibboleth.exe
+C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Schibboleth\Schibboleth\obj\x86\Debug\Schibboleth.pdb

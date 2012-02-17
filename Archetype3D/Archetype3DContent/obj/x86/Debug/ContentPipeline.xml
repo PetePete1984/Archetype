@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>druid.png</Source>
+      <Name>druid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\druid.xnb</Output>
+      <Time>2011-06-16T22:17:01.875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>empty.bmp</Source>
+      <Name>empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\empty.xnb</Output>
+      <Time>2011-06-16T22:17:01.875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>empty_normal.bmp</Source>
+      <Name>empty_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\empty_normal.xnb</Output>
+      <Time>2011-06-16T22:17:01.875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tower2_albedo.png</Source>
+      <Name>tower2_albedo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_albedo.xnb</Output>
+      <Time>2011-06-16T22:17:01.90625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tower2_height.png</Source>
+      <Name>tower2_height</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_height.xnb</Output>
+      <Time>2011-06-16T22:17:01.90625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tower2_normal.png</Source>
+      <Name>tower2_normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\tower2_normal.xnb</Output>
+      <Time>2011-06-16T22:17:01.921875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sf.spritefont</Source>
+      <Name>sf</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\sf.xnb</Output>
+      <Time>2011-06-16T22:17:01.875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>normalmap.fx</Source>
+      <Name>normalmap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\normalmap.xnb</Output>
+      <Time>2011-06-16T22:17:06.6875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Paddle.x</Source>
+      <Name>Paddle</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\Paddle.xnb</Output>
+      <Time>2011-06-25T19:03:22.46875+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Paddle_0.xml</Key>
+        <Value>2011-06-25T19:04:46.765625+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Paddle.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Paddle_0.xml</Output>
+      <Time>2011-06-25T19:03:22.46875+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3DContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3DContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Dokumente und Einstellungen\Pete\Eigene Dateien\Visual Studio 2010\Projects\Archetype\Archetype3D\Archetype3D\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Programme\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-30T12:47:03.234375+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
